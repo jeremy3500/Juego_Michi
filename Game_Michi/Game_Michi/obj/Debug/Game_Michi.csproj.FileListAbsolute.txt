@@ -1,0 +1,10 @@
+C:\Users\Jeremy\Desktop\Programacion\C#\Forms\Game_Michi\Game_Michi\bin\Debug\Game_Michi.exe.config
+C:\Users\Jeremy\Desktop\Programacion\C#\Forms\Game_Michi\Game_Michi\bin\Debug\Game_Michi.exe
+C:\Users\Jeremy\Desktop\Programacion\C#\Forms\Game_Michi\Game_Michi\bin\Debug\Game_Michi.pdb
+C:\Users\Jeremy\Desktop\Programacion\C#\Forms\Game_Michi\Game_Michi\obj\Debug\Game_Michi.csproj.AssemblyReference.cache
+C:\Users\Jeremy\Desktop\Programacion\C#\Forms\Game_Michi\Game_Michi\obj\Debug\Game_Michi.Form1.resources
+C:\Users\Jeremy\Desktop\Programacion\C#\Forms\Game_Michi\Game_Michi\obj\Debug\Game_Michi.Properties.Resources.resources
+C:\Users\Jeremy\Desktop\Programacion\C#\Forms\Game_Michi\Game_Michi\obj\Debug\Game_Michi.csproj.GenerateResource.cache
+C:\Users\Jeremy\Desktop\Programacion\C#\Forms\Game_Michi\Game_Michi\obj\Debug\Game_Michi.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Desktop\Programacion\C#\Forms\Game_Michi\Game_Michi\obj\Debug\Game_Michi.exe
+C:\Users\Jeremy\Desktop\Programacion\C#\Forms\Game_Michi\Game_Michi\obj\Debug\Game_Michi.pdb
